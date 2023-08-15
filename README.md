@@ -21,4 +21,4 @@ git clone https://github.com/chipsalliance/tsc themes/tsc
 ```
 
 In the top level directory of this project.
-To update the module simply pull the latest code of the TSC repository.
+To update the module simply pull the latest code of the TSC repository..
